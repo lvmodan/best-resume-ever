@@ -3,14 +3,14 @@
   <a href="https://github.com/salomonelli/best-resume-ever">
   <img src="src/assets/logo.png" alt="Markdownify" width="200"></a>
   <br>
-  best-resume-ever
+  my personal best-resume-ever - this my personal branch. Not compatible for others.
   <br>
 </h1>
 
 <h4 align="center">
   :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever!
   <br><br>
-  Made with Vue and LESS.
+  COPY with Vue and LESS.
 </h4>
 
 <br>
@@ -69,7 +69,7 @@ This project uses several open source packages:
 
 
 ---
-
+COPY from:
 > [sarasteiert.com](https://www.sarasteiert.com) &nbsp;&middot;&nbsp;
 > GitHub [@salomonelli](https://github.com/salomonelli) &nbsp;&middot;&nbsp;
 > Twitter [@salomonelli](https://twitter.com/salomonelli)
